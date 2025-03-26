@@ -49,9 +49,9 @@ Then my personal list (I haven't tried everything. It's just a list of cool stuf
 
 # Construction
 
-* [LEGO Mindstroms](https://www.lego.com/en-us/mindstorms): Lego with captors and engines that you can problem using their interface. Quite complex to create models 
-* [LEGO WeDo](https://education.lego.com/en-us/products/lego-education-wedo-2-0-core-set/45300): Like Mindstorms but simpler and for younger kids. They a quick to build and oriented for science workshops
-* [LEGO Boost](https://www.lego.com/en-us/boost): A bit like WeDo but for home. Boost is long to assemble and then offers many programming possibilities  
+* [LEGO Spike](https://spike.legoeducation.com/): Perform to learn advances machines and programming them
+* [LEGO Boost](https://www.lego.com/en-us/boost): Spike for home. Boost is long to assemble and then offers many programming possibilities
+* [Spintronics](https://store-ca.upperstory.com/fr/collections/spintronics): Super cool to learn electronic with gears
 
 # Computers
 
@@ -63,5 +63,4 @@ Then my personal list (I haven't tried everything. It's just a list of cool stuf
 * [littleBits](http://littlebits.cc): Really cool bricks to build electronic systems
 * [Makey Makey](http://www.makeymakey.com): Fun chipset and electrodes to interact with the computer using everyday objects
 * [MakerBloks](https://makerbloks.com): Other really cool bricks to build electronic systems
-* [Arduino](https://www.arduino.cc): A full-fledged electronic board to play with
 * [FreeNove](http://www.freenove.com): Multiple electronic kits with straightforward explanations

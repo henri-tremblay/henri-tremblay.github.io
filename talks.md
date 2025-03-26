@@ -5,6 +5,13 @@ title: Talks
 
 The talks I've made along the years.
 
+## 2025
+
+* 2025-03-28 - Java 9 to 21: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
+* 2025-03-19 - The optimistic grumpy Java developer - [JavaOne](https://www.oracle.com/javaone/) - Redwood, USA
+* 2025-02-28 - Penser comme un bon architecte - [Confoo](https://confoo.ca) - Montréal, Canada
+* 2025-02-27 - Tout ce qui est intéressant en Java 21 - [Confoo](https://confoo.ca) - Montréal, Canada
+
 ## 2024
 
 * 2024-07-12 - Java 9 to 21: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
