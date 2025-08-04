@@ -56,7 +56,9 @@ void test() {
 
 # Time-based Code and Randomness
 
-For time-dependent code, I prefer injecting a custom `java.time.Clock` implementation rather than using mocking frameworks. 
+For time-dependent code, I prefer injecting a custom `java.time.Clock` implementation rather than using mocking frameworks.
+I talk about it [here](2021-01-12-mocking-clock).
+
 Similarly, for random behaviors, I create deterministic implementations. 
 These concrete classes can be reused throughout the application's test suite.
 
