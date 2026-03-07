@@ -5,8 +5,19 @@ title: Talks
 
 The talks I've made along the years.
 
+## 2026
+
+* 2026-02-27 - Être directeur technique - [Confoo](https://confoo.ca) - Montréal, Canada
+* 2026-02-25 - Prendre du vieux Java et en faire quelque chose de beau - [Confoo](https://confoo.ca) - Montréal, Canada
+* 2026-01-27 - [Java 25 (LTS): Virtually the best version ever](https://www.youtube.com/watch?v=iUT8JRnQZbs) - [jChampions Conference](https://jchampionsconf.com/) - Online
+* 2026-01-23 - Java 5: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
+
 ## 2025
 
+* 2025-09-17 - Java 25: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
+* 2025-07-11 - Java 9 to 21: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
+* 2025-05-06 - Java 9 to 21: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
+* 2025-04-30 - Java 21 à 24 - [Montréal JUG](http://www.montreal-jug.org) - Montréal, Canada
 * 2025-03-28 - Java 9 to 21: How to code like a pro - [O'Reilly Training](https://www.oreilly.com/live-training/) - Online
 * 2025-03-19 - The optimistic grumpy Java developer - [JavaOne](https://www.oracle.com/javaone/) - Redwood, USA
 * 2025-02-28 - Penser comme un bon architecte - [Confoo](https://confoo.ca) - Montréal, Canada
