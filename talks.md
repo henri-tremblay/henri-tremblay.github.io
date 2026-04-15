@@ -7,6 +7,7 @@ The talks I've made along the years.
 
 ## 2026
 
+* 2026-03-20 - Java Memory Model Explained - [JavaOne](https://www.oracle.com/javaone/) - Redwood, USA
 * 2026-02-27 - Être directeur technique - [Confoo](https://confoo.ca) - Montréal, Canada
 * 2026-02-25 - Prendre du vieux Java et en faire quelque chose de beau - [Confoo](https://confoo.ca) - Montréal, Canada
 * 2026-01-27 - [Java 25 (LTS): Virtually the best version ever](https://www.youtube.com/watch?v=iUT8JRnQZbs) - [jChampions Conference](https://jchampionsconf.com/) - Online
